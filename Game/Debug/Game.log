@@ -1,0 +1,106 @@
+﻿  Button.cpp
+  Game.cpp
+D:\MyProject\Game\Game\Game.h(136,18): warning C4305: инициализация: усечение из "double" в "float"
+D:\MyProject\Game\Game\Game.cpp(16,75): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\MyProject\Game\Game\Game.cpp(16,48): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\MyProject\Game\Game\Game.cpp(21,75): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\MyProject\Game\Game\Game.cpp(21,48): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\MyProject\Game\Game\Game.cpp(26,75): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\MyProject\Game\Game\Game.cpp(26,48): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\MyProject\Game\Game\Game.cpp(31,75): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\MyProject\Game\Game\Game.cpp(31,48): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\MyProject\Game\Game\Game.cpp(97,16): warning C4305: +=: усечение из "double" в "float"
+D:\MyProject\Game\Game\Game.cpp(105,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\MyProject\Game\Game\Game.cpp(125,70): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\MyProject\Game\Game\Game.cpp(125,45): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\MyProject\Game\Game\Game.cpp(132,70): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\MyProject\Game\Game\Game.cpp(132,45): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\MyProject\Game\Game\Game.cpp(146,70): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\MyProject\Game\Game\Game.cpp(146,45): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\MyProject\Game\Game\Game.cpp(152,70): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\MyProject\Game\Game\Game.cpp(152,45): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\MyProject\Game\Game\Game.cpp(190,48): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\MyProject\Game\Game\Game.cpp(190,41): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\MyProject\Game\Game\Game.cpp(190,34): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\MyProject\Game\Game\Game.cpp(194,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\MyProject\Game\Game\Game.cpp(262,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\MyProject\Game\Game\Game.cpp(333,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\MyProject\Game\Game\Game.cpp(403,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\MyProject\Game\Game\Game.cpp(427,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\MyProject\Game\Game\Game.cpp(451,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\MyProject\Game\Game\Game.cpp(457,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\MyProject\Game\Game\Game.cpp(575,48): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\MyProject\Game\Game\Game.cpp(575,41): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\MyProject\Game\Game\Game.cpp(575,34): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+D:\MyProject\Game\Game\Game.cpp(578,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\MyProject\Game\Game\Game.cpp(592,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\MyProject\Game\Game\Game.cpp(613,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\MyProject\Game\Game\Game.cpp(615,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\MyProject\Game\Game\Game.cpp(625,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+D:\MyProject\Game\Game\Button.cpp(67): warning C4715: Button::getTex: значение возвращается не при всех путях выполнения
+  Game.vcxproj -> D:\MyProject\Game\Debug\Game.exe
